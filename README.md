@@ -1,4 +1,5 @@
 # CivicConnect — Local Problem Reporting Platform
+fascinating-conkies-2c1a25.netlify.app
 
 CivicConnect is an intuitive, modern civic engagement platform empowering citizens to report local issues (road damage, garbage accumulation, broken streetlights, water leakage, drainage problems) with AI-assisted categorization, geographic pinpointing, and live resolution tracking.
 
